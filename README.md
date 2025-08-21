@@ -3,6 +3,7 @@
 - 🌱 II graduated Springboard Bootcamp!
 - 📫 How to reach me: www.linkedin.com/in/jonathan-lahmann-1442a3251
 - My Best Project: https://spellbinder1-95d3c581ba70.herokuapp.com/
+- Github Link: https://github.com/C4ptnS4lty/Spellbinder-Capstone2
 
 <!---
 C4ptnS4lty/C4ptnS4lty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
